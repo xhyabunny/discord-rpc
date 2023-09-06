@@ -1,11 +1,9 @@
 # discord-rpc
+![xhyabunnyrpcbanner](https://github.com/xhyabunny/discord-rpc/assets/106491722/f98f6b54-df6b-4cd7-b845-ed73f2eaf4a4)
+
 Re-build of another Discord RPC application, adding whats missing.
 
-<img src='https://github-production-user-asset-6210df.s3.amazonaws.com/106491722/265821862-cd27cdea-d279-4edc-a19b-fd202fa2f7fc.png' height='280px'/>
-
 Credits to [@t1c.dev](https://github.com/ThatOneCalculator/) for creating the app in the first place.
-
-[GET THE ORIGINAL APP](https://github.com/ThatOneCalculator/DiscordRPCMaker)
 
 This rebuild contains everything that EVERY other Custom RPC App is missing.
 - Buttons
