@@ -13,3 +13,10 @@ This rebuild contains everything that EVERY other Custom RPC App is missing.
 
 All you have to do is create your own application into the discord developer portal, copy the App's Client ID and paste it into the Client ID label input inside the app.
 >(more instructions inside the app)
+
+## ANY QUESTIONS? JOIN OUR SERVER!
+<a href="https://discord.gg/Ktkrg7C2da">
+    <img src="https://img.shields.io/discord/777028166535479326?color=5865F2&logo=discord&logoColor=white" alt="Discord server" />
+</a>
+
+
